@@ -44,17 +44,17 @@ const LeafletMap = () => {
     }
   };
   const items = [
-    {
-      label: "Add",
-      icon: "pi pi-calendar",
-      command: () => {
-        toast.current.show({
-          severity: "info",
-          summary: "Add",
-          detail: "Data Added",
-        });
-      },
-    },
+    // {
+    //   label: "Add",
+    //   icon: "pi pi-calendar",
+    //   command: () => {
+    //     toast.current.show({
+    //       severity: "info",
+    //       summary: "Add",
+    //       detail: "Data Added",
+    //     });
+    //   },
+    // },
     {
       label: "search",
       icon: "pi pi-search",
@@ -69,17 +69,17 @@ const LeafletMap = () => {
         setDisplayEventsPanel(true);
       },
     },
-    {
-      label: "Update",
-      icon: "pi pi-google",
-      command: () => {
-        toast.current.show({
-          severity: "success",
-          summary: "Update",
-          detail: "Data Updated",
-        });
-      },
-    },
+    // {
+    //   label: "Update",
+    //   icon: "pi pi-google",
+    //   command: () => {
+    //     toast.current.show({
+    //       severity: "success",
+    //       summary: "Update",
+    //       detail: "Data Updated",
+    //     });
+    //   },
+    // },
   ];
   const createClusterCustomIcon = function (cluster) {
     return L.divIcon({

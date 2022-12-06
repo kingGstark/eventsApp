@@ -242,6 +242,22 @@
         "lng": -122.45755076408388
       },
       "id": 14
+    },
+    {
+      "name": "Caminata para Cancer de Mama",
+      "description": "Esta es una caminata alegórica para el cáncer de mama y de esa manera dejar saber la importancia de este grandísimo problema que ataca a las mujeres de nuestra nación.",
+      "date": "2022-12-23T04:00:00.000Z",
+      "icon": {
+        "name": "talking",
+        "code": "commenting",
+        "color": "green",
+        "colorCode": "#6ca624"
+      },
+      "position": {
+        "lat": 18.44647403751725,
+        "lng": -69.94591712951662
+      },
+      "id": 15
     }
   ]
 }
