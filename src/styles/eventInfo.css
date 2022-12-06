@@ -1,0 +1,18 @@
+.event-info-popup > .leaflet-popup-content-wrapper > .leaflet-popup-content {
+  width: 100% !important;
+}
+.event-info-popup > .leaflet-popup-content-wrapper {
+  background: #171e2d !important;
+}
+
+.postcard .info {
+  margin: 0px !important;
+}
+
+.leaflet-popup-close-button {
+  margin: 10px;
+}
+.leaflet-popup-close-button > span {
+  font-size: 30px;
+  color: white;
+}

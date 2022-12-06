@@ -1,0 +1,247 @@
+{
+  "users": [
+    {
+      "name": "Dana Howe",
+      "id": 1
+    },
+    {
+      "name": "Derrick Swift II",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "furnace loathsome",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "birdhouse scented",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "title": "med valid",
+      "imageUrl": "https://loremflickr.com/500/450/cat?lock=2624",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "title": "agony incredible",
+      "imageUrl": "https://loremflickr.com/500/450/cat?lock=2660",
+      "id": 3
+    }
+  ],
+  "events": [
+    {
+      "name": "reunion para beber cafe y hablar",
+      "description": "check stuf",
+      "icon": {
+        "name": "coffee",
+        "code": "coffee"
+      },
+      "position": {
+        "lat": 18.466258122769585,
+        "lng": -69.96145248413087
+      },
+      "id": 1
+    },
+    {
+      "name": "Tertulia",
+      "description": "waos",
+      "icon": {
+        "name": "talking",
+        "code": "commenting"
+      },
+      "position": {
+        "lat": 18.473747798566333,
+        "lng": -69.91682052612306
+      },
+      "id": 2
+    },
+    {
+      "name": "singando",
+      "description": "vamo a singar",
+      "icon": {
+        "name": "coffee",
+        "code": "coffee"
+      },
+      "position": {
+        "lat": 18.443624290105266,
+        "lng": -69.9712371826172
+      },
+      "id": 3
+    },
+    {
+      "name": "test",
+      "description": "tet",
+      "icon": {
+        "name": "coffee",
+        "code": "coffee",
+        "color": "blue",
+        "colorCode": "#36a1d1"
+      },
+      "position": {
+        "lat": 18.461047720675808,
+        "lng": -69.93467330932619
+      },
+      "id": 4
+    },
+    {
+      "name": "tete",
+      "description": "tete",
+      "icon": {
+        "name": "talking",
+        "code": "commenting",
+        "colorCode": "#6ca624"
+      },
+      "position": {
+        "lat": 18.45599999279787,
+        "lng": -69.95001554489137
+      },
+      "id": 5
+    },
+    {
+      "name": "ww",
+      "description": "ww",
+      "icon": {
+        "name": "talking",
+        "code": "commenting",
+        "color": "green",
+        "colorCode": "#6ca624"
+      },
+      "position": {
+        "lat": 18.445171301709056,
+        "lng": -69.95381355285646
+      },
+      "id": 6
+    },
+    {
+      "name": "e",
+      "description": "e",
+      "icon": {
+        "name": "talking",
+        "code": "commenting",
+        "color": "green",
+        "colorCode": "#6ca624"
+      },
+      "position": {
+        "lat": 18.471346253358444,
+        "lng": -69.91016864776613
+      },
+      "id": 7
+    },
+    {
+      "name": "a bebel",
+      "description": "yes",
+      "icon": {
+        "name": "go out for drinks",
+        "code": "glass",
+        "color": "lightred",
+        "colorCode": "#ea7d81"
+      },
+      "position": {
+        "lat": 18.47513172459929,
+        "lng": -69.94660377502443
+      },
+      "id": 8
+    },
+    {
+      "name": "Evento japones",
+      "description": "Vamos a vestirnos como verdaderos japoneses",
+      "icon": {
+        "name": "talking",
+        "code": "commenting",
+        "color": "green",
+        "colorCode": "#6ca624"
+      },
+      "position": {
+        "lat": 18.496438704872933,
+        "lng": -69.95602905750276
+      },
+      "id": 9
+    },
+    {
+      "name": "Caminata para Cancer de Mama",
+      "description": "Esta es una caminata alegorica para el cancer de mama y dejar saber la importancia de este grandisimo problema que atacas a las mujeres de nuestra nacion.",
+      "icon": {
+        "name": "talking",
+        "code": "commenting",
+        "color": "green",
+        "colorCode": "#6ca624"
+      },
+      "position": {
+        "lat": 18.492226360146464,
+        "lng": -69.91149902343751
+      },
+      "id": 10
+    },
+    {
+      "name": "cumple de maria",
+      "description": "celebraremos el cumple de mia a miga maria ",
+      "date": "2022-11-08T04:00:00.000Z",
+      "icon": {
+        "name": "go out for drinks",
+        "code": "glass",
+        "color": "lightred",
+        "colorCode": "#ea7d81"
+      },
+      "position": {
+        "lat": 18.75226041424737,
+        "lng": -69.97055053710939
+      },
+      "id": 11
+    },
+    {
+      "name": "s",
+      "description": "e",
+      "date": "2022-11-09T04:00:00.000Z",
+      "icon": {
+        "name": "drink a coffee",
+        "code": "coffee",
+        "color": "blue",
+        "colorCode": "#36a1d1"
+      },
+      "position": {
+        "lat": 18.47537594568107,
+        "lng": -69.98205184936525
+      },
+      "id": 12
+    },
+    {
+      "name": "a beber",
+      "description": "a beber",
+      "date": "2025-05-07T04:00:00.000Z",
+      "icon": {
+        "name": "go out for drinks",
+        "code": "glass",
+        "color": "lightred",
+        "colorCode": "#ea7d81"
+      },
+      "position": {
+        "lat": 19.470152860540264,
+        "lng": -70.69873809814455
+      },
+      "id": 13
+    },
+    {
+      "name": "san Francisco`s university Party",
+      "description": "A american pie kind of party in the community center of san francisco`s university.\n\nnot formal, come with at least 2 people.",
+      "date": "2022-11-29T04:00:00.000Z",
+      "icon": {
+        "name": "go out for drinks",
+        "code": "glass",
+        "color": "lightred",
+        "colorCode": "#ea7d81"
+      },
+      "position": {
+        "lat": 37.76312827061436,
+        "lng": -122.45755076408388
+      },
+      "id": 14
+    }
+  ]
+}

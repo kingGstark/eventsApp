@@ -1,0 +1,63 @@
+.form-demo .card {
+  width: 490px;
+  padding: 20px;
+}
+
+.form-demo .card form {
+  margin-top: 2rem;
+}
+.form-demo .card .field {
+  margin-bottom: 1.5rem;
+}
+@media screen and (max-width: 960px) {
+  .form-demo .card {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 640px) {
+  .form-demo .card {
+    width: 100%;
+    min-width: 0;
+  }
+}
+
+.form-card {
+  border: none;
+  background-image: linear-gradient(
+    360deg,
+    rgb(24 22 32),
+    rgb(3 53 83 / 94%) 90%
+  );
+}
+
+.dialog-style {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  padding-top: 3rem !important;
+  align-items: center !important;
+  flex-direction: column !important;
+  display: flex !important;
+}
+
+.p-dialog .p-dialog-footer {
+  border-top: 0 none;
+  background: #ffffff;
+  color: #495057;
+  padding: 0 1.5rem 1.5rem 1.5rem;
+  text-align: right;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.p-dialog-footer > div {
+  justify-content: center !important;
+  display: flex;
+}
+
+.leaflet-popup-content {
+  margin: 0px;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #181620;
+}

@@ -1,0 +1,33 @@
+.leaflet-popup-content-wrapper {
+  width: 490px;
+}
+.search-panel {
+  background: #f8f9fa;
+}
+
+.buttons-panel {
+  position: absolute;
+  right: 18px;
+  bottom: 32px;
+  z-index: 999;
+}
+
+.p-panel-header {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.list-event {
+  border-right: none;
+  border-radius: none;
+  border-left: none;
+  padding: 0px;
+}
+
+.list-group {
+  border-radius: none;
+}
+
+button.p-panel-header-icon.p-panel-toggler.p-link:focus {
+  box-shadow: none;
+}

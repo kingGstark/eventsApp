@@ -1,13 +1,64 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("../node_modules/leaflet.awesome-markers/dist/leaflet.awesome-markers.css");
+@import url("leaflet/dist/leaflet.css");
+@import url("primereact/resources/themes/lara-light-indigo/theme.css");
+@import url("primereact/resources/primereact.min.css");
+@import url("primeicons/primeicons.css");
+@import url("http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css");
+@import url("../node_modules/font-awesome/css/font-awesome.css");
+@import url("../node_modules/react-leaflet-markercluster/dist/styles.min.css");
+@import url("./styles/searchForm.css");
+@import url("./styles/formStyles.css");
+@import url("./styles/eventsPanel.css");
+@import url("./styles/eventCard.css");
+@import url("./styles/eventInfo.css");
+/* .leaflet-control-zoom {
+  left: 96vw;
+} */
+
+.customMarker {
+  background-image: url(/public/pin.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.customMarker span {
+  display: block;
+  margin-top: 5px;
+  margin-left: 13px;
+  color: #fff;
 }
+
+.form-control:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+.p-dialog .p-dialog-content {
+  padding: 0px !important;
+  min-height: 440px;
+}
+/* .p-dialog-content {
+  background: #110f16 !important;
+}
+
+.p-dialog-header {
+  background: #110f16 !important ;
+} */
+
+.p-dialog-header-icon .p-dialog-header-close .p-link {
+  box-shadow: none !important;
+}
+
+.leaflet-popup-tip {
+  background: #181620;
+}
+
+.filter-box {
+  position: absolute;
+  z-index: 999;
+  top: 77px;
+  left: 10px;
+  width: 31px;
+}
+
