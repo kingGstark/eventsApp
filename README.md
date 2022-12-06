@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# A cool sandbox of geo engine, nice leaflet features and plugins.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## marker clustering
 
-In the project directory, you can run:
+<img width="812" alt="Screen Shot 2022-12-06 at 8 34 53 AM" src="https://user-images.githubusercontent.com/38017281/205914086-4452b063-b2ad-4a50-be60-f9babbb7c173.png">
 
-### `npm start`
+## custom markers
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1080" alt="Screen Shot 2022-12-06 at 8 35 24 AM" src="https://user-images.githubusercontent.com/38017281/205914204-8c89f967-4b09-48c0-b112-a60214590fc0.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## country search, listing and "fly to" capabilities to make easer to find the spot for your event
 
-### `npm test`
+<img width="1082" alt="Screen Shot 2022-12-06 at 8 36 56 AM" src="https://user-images.githubusercontent.com/38017281/205914481-8630fbe4-ab2a-4528-8417-d25fb094f9ef.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1145" alt="Screen Shot 2022-12-06 at 8 37 26 AM" src="https://user-images.githubusercontent.com/38017281/205914597-1e892753-d18e-432a-aa66-ccc386639b79.png">
 
-### `npm run build`
+## events listing and "fly to" to easly spot the events you are interested in
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1402" alt="Screen Shot 2022-12-06 at 8 38 51 AM" src="https://user-images.githubusercontent.com/38017281/205914935-5763828e-58b5-4351-a509-4944c851085e.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## events filtering by category
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1424" alt="Screen Shot 2022-12-06 at 8 39 46 AM" src="https://user-images.githubusercontent.com/38017281/205915099-3e3ce7a7-a4c0-4dc0-adf1-afcdaf2bf694.png">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## events creation form
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1238" alt="Screen Shot 2022-12-06 at 8 42 35 AM" src="https://user-images.githubusercontent.com/38017281/205915689-327ea663-081b-4f00-832e-56c37808b5d3.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## events info card
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="851" alt="Screen Shot 2022-12-06 at 8 43 15 AM" src="https://user-images.githubusercontent.com/38017281/205915876-97c282b9-5330-41b3-80b0-e42781887768.png">
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+when click in show direction the app will take you to the route to the events using google maps
